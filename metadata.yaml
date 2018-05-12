@@ -1,4 +1,8 @@
 _repo: Chronique-du-crime-et-de-l-innocence-tome-38-Recueil-des-evenements-les-plus-tragiques_47352
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47352-h/images/cover.jpg
 creator:
   author:
     agent_name: Champagnac, J.-B. J. (Jean-Baptiste Joseph)
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43900
     wikipedia: http://fr.wikipedia.org/wiki/Jean-Baptiste-Joseph_Champagnac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47352#Chronique-du-crime-et-de-l-innocence-tome-38-Recueil-des-evenements-les-plus-tragiques
 gutenberg_bookshelf: FR Droit et Justice
 gutenberg_issued: '2014-11-14'
 gutenberg_type: Text
